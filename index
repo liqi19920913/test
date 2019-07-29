@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>瞰天科技</title>
+    <title>建工华创</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -12,12 +12,7 @@
     <link rel="stylesheet" href="assets/css/web.css?v5">
     <link rel="stylesheet" href="assets/css/swiper.min.css">
 
-    <script src="assets/js/jquery-3.3.1.min.js"></script>
-
-    <script src="assets/js/bootstrap.min.js"></script>
-
-    <script src="assets/js/swiper.min.js"></script>
-    <script src="assets/js/clientRedirect.js"></script>
+    
 </head>
 
 <body>
@@ -206,10 +201,10 @@
 
                 </div>
             </div>
-            <div class="row desc py-2" data-status="0" data-index="8">
+            <div  data-status="0" data-index="8">
                 <div class="col">
                     <h4 class="ask">8. 司博气象站数据传输异常，要如何处理？</h4>
-                    <div class="container kt-px-20 answer">
+                    <div >
                         <div class="row">
                             <div class="col">
                                 <p>若设备突然停止传输数据，而从app或dashboard上看到传输最后一次数据时，图像显示正常，则如果设备使用的是WiFi，需要检查当前WiFi是否已中断；如设备使用的是4G通讯，则有可能是4G卡欠费导致通讯服务停止，进行续费后，设备即可恢复通讯</p>
@@ -227,10 +222,10 @@
                     </div>
                 </div>
             </div>
-            <div class="row desc py-3" data-status="0" data-index="9">
+            <div data-status="0" data-index="9">
                 <div class="col">
                     <h4 class="ask">9. 安装司博气象站的过程，雨筒无数据显示怎么办？</h4>
-                    <div class="container kt-px-20 answer">
+                    <div >
                         <div class="row">
                             <div class="col">
                                 <p>雨筒安装后无数据：在司博气象站正常上传数据后，安装的雨筒如一直未更新数据，请拨动雨筒的翻斗，等待5-10分钟就会有数据更新。若10分钟后无数据在app上更新，请从新插拔雨筒电源，再次拨动雨筒的翻斗，等待5-10分钟后，在app上查看数据。如再无数据，请联系我司。</p>
@@ -239,7 +234,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row desc py-3" data-status="0" data-index="10">
+            <div  data-status="0" data-index="10">
                 <div class="col">
                     <h4 class="ask">10. 如何判断司博气象站的电量？</h4>
                     <div class="container kt-px-20 answer">
@@ -253,142 +248,29 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-6"><img src="assets/imgs/help-10-1.jpg" class="img-responsive" />
+                            <div ><img src="assets/imgs/help-10-1.jpg" class="img-responsive" />
                                 <span>图1 未充电状态</span></div>
-                            <div class="col-6"><img src="assets/imgs/help-10-2.jpg" class="img-responsive" />
+                            <div ><img src="assets/imgs/help-10-2.jpg" class="img-responsive" />
                                 <span>图2 充电状态</span></div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="container-fluid mt-4">
-            <div class="row">
-                <div class="col">
-                    <div class="short-hr foothr"></div>
-                </div>
-            </div>
-        </div>
+        
     </section>
     <!--常见问题  end-->
 
     <!--footer begin-->
-    <footer class="container-fluid kt-footer">
-        <div class="row kt-p-20">
-            <div class="col">
-                <img src="assets/imgs/logo-w.png" width="120" />
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-7">
-                <p>天津瞰天科技有限公司</p>
-                <p>天津市南开区雅安道金平路3号</p>
-                <p>support@kantiantech.com</p>
-            </div>
-            <div class="col-5">
-                <div class="row">
-                    <div class="col-5">
-                        <p>
-                            <a href="index.html">首页</a></p>
-                    </div>
-                    <div class="col-7">
-                        <p>
-                            <a href="about.html">关于我们</a></p>
-                    </div>
-                    <div class="col-5">
-                        <p>
-                            <a href="hardwareProduct.html">硬件</a></p>
-                    </div>
-                    <div class="col-7">
-                        <p>
-                            <a href="clause.html">条款</a></p>
-                    </div>
-                    <div class="col-5">
-                        <p>
-                            <a href="softwareProduct.html">软件</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="hr-b mt-2"></div>
-        <div class="row mt-4 pb-3">
-            <div class="col copyright">
-                <p>津ICP备18000033号</p>
-                <p>瞰天科技保留一切权利 © 2014-2018</p>
-                <p>津公网安备 12010402000611号</p>
-            </div>
-        </div>
-    </footer>
+   
     <!--footer end-->
 
     <!--gotop begin-->
-    <a class="gotop" href="javascript:;">
-        <img src="assets/imgs/gotop.png" width="50" />
-    </a>
+   
     <!--gotop end-->
 
     <!--nav box begin-->
-    <div class="kt-nav-box">
-        <div class="container-fluid">
-            <div class="row kt-pt-30">
-                <div class="col">
-                    <a href="#" class="btn-close"><img src="assets/imgs/btn-close.png" width="20" /></a>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <ul>
-                        <li>
-                            <div class="nav-item1" data-index="1" data-status="0">
-                                <a href="#">数据服务</a>
-                                <img src="assets/imgs/btn-down.png" width="20" class="op">
-                            </div>
-                            <div class="kt-pl-10">
-                                <nav class="nav-item2" data-index="1">
-                                    <a href="metrex.html">METREX</a>
-                                    <a href="newEnergy.html">新能源</a>
-                                    <a href="smartAgriculture.html">智慧农业</a>
-                                    <a href="smartCity.html">智慧城市</a>
-                                </nav>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="nav-item1" data-index="2" data-status="0">
-                                <a href="hardwareProduct.html">硬件产品</a>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="nav-item1" data-index="6" data-status="0">
-                                <a href="softwareProduct.html">软件产品</a>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="nav-item1" data-index="3" data-status="0">
-                                <a href="#">项目案例</a>
-                                <img src="assets/imgs/btn-down.png" width="20" class="op">
-                            </div>
-                            <div class="kt-pl-10">
-                                <nav class="nav-item2" data-index="3">
-                                    <a href="citrus.html">四川柑橘</a>
-                                    <a href="cotton.html">新疆棉花</a>
-                                    <a href="herbage.html">内蒙古牧草</a>
-                                </nav>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="nav-item1" data-index="4" data-status="0">
-                                <a href="help.html">帮助文档</a>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="nav-item1" data-index="5" data-status="0">
-                                <a href="about.html">关于我们</a>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+  v>
     </div>
     <!--nav box end-->
 
